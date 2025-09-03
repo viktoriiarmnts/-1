@@ -7,7 +7,7 @@ prices = {25, 30}
 index = 42
 duration = (2, 15)
 note = {'2': 'Storm'}
-block = 9
+block = b"Hello"
 
 print(type(years_old))
 print(type(portion))
