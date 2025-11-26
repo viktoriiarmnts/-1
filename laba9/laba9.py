@@ -1,4 +1,3 @@
-
 def count_pairs(filename, pairs):
     try:
         with open(filename, 'r', encoding='utf-8') as f:
